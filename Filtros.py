@@ -35,7 +35,7 @@ if authentication_status == None:
     st.warning('Complete todo los campos')
 
 if authentication_status:    
-    imagen = "Foto4.jpg"
+    imagen = "foto4.jpg"
     imagen2 = 'Foto2.jpg'
     st.markdown(
     f'<div style="display: flex; justify-content: space-between;">'
