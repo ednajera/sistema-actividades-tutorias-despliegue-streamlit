@@ -33,7 +33,7 @@ if authentication_status == None:
 if authentication_status == True:
     st.sidebar.title(f'Bienvenido {name}')
     authenticator.logout('Logout', 'sidebar')
-    imagen = "Foto4.jpg"
+    imagen = "foto4.jpg"
     imagen2 = 'Foto2.jpg'
     st.markdown(
     f'<div style="display: flex; justify-content: space-between;">'
