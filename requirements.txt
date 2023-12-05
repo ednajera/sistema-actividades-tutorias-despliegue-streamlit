@@ -9,4 +9,3 @@ Docxtpl
 datetime
 openpyxl==3.1.2
 matplotlib
-zipfile
